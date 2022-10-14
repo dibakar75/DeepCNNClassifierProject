@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dibakardeb/Documents/DeepCNNClassifierProject/mlruns/0/b832caddd67746dbb6de7c56fbcef017/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b832caddd67746dbb6de7c56fbcef017
+run_uuid: b832caddd67746dbb6de7c56fbcef017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665336753354
+status: 1
+tags: []
+user_id: dibakardeb
