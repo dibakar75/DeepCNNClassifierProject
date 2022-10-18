@@ -19,3 +19,6 @@ MLFLOW_TRACKING_URI=https://dagshub.com/dibakar75/DeepCNNClassifierProject.mlflo
 MLFLOW_TRACKING_USERNAME=dibakar75 \
 MLFLOW_TRACKING_PASSWORD=08c9c19bc9a213f095bcd2d4848e418544d69576 \
 python script.py
+
+## Sample data fro testing only
+https://raw.githubusercontent.com/dibakar75/all_datasets/main/sample_data.zip
